@@ -4,7 +4,6 @@
 
 <!-- Badges. Suggest using https://badgen.net or https://shields.io -->
 <p align="center">
-<a href="#contributors"><img src="https://img.shields.io/github/all-contributors/moonhappy/template-cpp20-cli-base?color=ee8449&style=flat-square" alt="All Contributors"></a>
 </p>
 
 <p align="center">
@@ -32,18 +31,5 @@ This repo consists of sample code and structure of a typical C++20 cli program. 
 
 _**NOTE:** Extend this section to acknowledge libraries, code, and contributors of the project._
 
-- [Buck2](https://github.com/facebook/buck2) | Copyright (c) Meta Platforms, Inc. and affiliates.
 - [GoogleTest](https://github.com/google/googletest) | Copyright (c) Google Inc.
 - [CLI11](https://github.com/CLIUtils/CLI11) | CLI11 Copyright (c) University of Cincinnati, developed by Henry Schreiner under NSF AWARD 1414736.
-- [all-contributors](https://allcontributors.org) | Copyright (c) 2016 Kent C. Dodds, 2019 Jake Bolam.
-
-## Contributors
-
-<!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
-<!-- prettier-ignore-start -->
-<!-- markdownlint-disable -->
-
-<!-- markdownlint-restore -->
-<!-- prettier-ignore-end -->
-
-<!-- ALL-CONTRIBUTORS-LIST:END -->
