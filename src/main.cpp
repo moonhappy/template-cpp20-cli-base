@@ -6,10 +6,10 @@
 //
 
 #include <CLI/CLI.hpp>
-#include "hello.hpp"
+#include "hello/hello.hpp"
 
 
-int main(int argc, const char * argv[]) {
+int main(int argc, char **argv) {
     CLI::App app{"App description"};
     argv = app.ensure_utf8(argv);
 

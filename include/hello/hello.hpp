@@ -7,8 +7,8 @@
 
 #include <string>
 
-#ifndef MH_TEMPLATE_HELLO
-#define MH_TEMPLATE_HELLO
+#ifndef HELLO_HELLO_HPP_
+#define HELLO_HELLO_HPP_
 
 
 consteval int add(int a, int b) { return a+b; }
@@ -17,5 +17,5 @@ constexpr int r = add(100, 300);
 std::string hello_world();
 
 
-#endif // MH_TEMPLATE_HELLO
+#endif  // HELLO_HELLO_HPP_
 

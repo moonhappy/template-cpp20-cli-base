@@ -6,7 +6,7 @@
 //
 
 #include <sstream>
-#include "hello.hpp"
+#include "hello/hello.hpp"
 
 
 std::string hello_world() {
