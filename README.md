@@ -16,6 +16,11 @@ _**NOTE:** Though this repo can be used as-is, it is intended for use by the Moo
 
 This repo consists of sample code and structure of a typical C++20 cli program. The MoonHappy Project Generator utility uses this base repo to then apply diff patches to customise the template for use with various build (cmake, buck2, etc..) and package management frameworks.
 
+## Features
+
+- [GoogleTest](https://github.com/google/googletest) based Unit Tests.
+- [Google C++ Style Guide](https://google.github.io/styleguide/cppguide.html) compliant, verified using [cpplint](https://github.com/cpplint/cpplint).
+
 ## Layout
 
 - `/include` - public interface headers (.hpp) should be listed here.
